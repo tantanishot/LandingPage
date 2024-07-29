@@ -1,11 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
-/*
-	Dimension by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -578,6 +573,7 @@ input, select, textarea {
 	}
 
 /* Box */
+/**/
 
 	.box {
 		border-radius: 4px;
@@ -599,8 +595,7 @@ input, select, textarea {
 		}
 
 /* Icon */
-
-	.icon {
+/*.icon {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
@@ -633,7 +628,8 @@ input, select, textarea {
 
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
-		}
+		*/
+	
 
 /* Image */
 
